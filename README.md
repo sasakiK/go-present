@@ -5,4 +5,8 @@
 
 ## First sample
 
-is [here](http://go-talks.appspot.com/github.com/sasakiK/go-present/present-sample/main.slide)
+Initial test presentation is [here](http://go-talks.appspot.com/github.com/sasakiK/go-present/present-sample/main.slide)
+
+##  CSV parse sample
+
+How to parse csv file  is [here](http://go-talks.appspot.com/github.com/sasakiK/go-present/go-csv-parser/main.slide)
