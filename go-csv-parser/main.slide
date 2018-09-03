@@ -1,0 +1,23 @@
+Golang csv parser
+Goでcsvをparseしてjsonで返してみる
+3 Sep 2018
+Tags: none
+
+佐々木 健佑
+筑波大学システム情報工学研究科
+k.coobb@gmail.com
+
+
+* How to read csv
+- we can do like this ..
+.code example/main.go  /read csv start/,/read csv end/
+.background https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+* How to insert into struct
+- we can do like this ..
+.code example/main.go  /insert into struct start/,/insert into struct end/
+.background https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+
+* Try to execute
+.play example/main.go /main all start/,/read csv end/
+.background https://images.pexels.com/photos/242236/pexels-photo-242236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
