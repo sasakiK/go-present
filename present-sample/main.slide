@@ -19,3 +19,9 @@ k.coobb@gmail.com
 - sample code implementation
 
 .play example/sample.go
+
+* good library
+
+- [Gorgonia](https://github.com/gorgonia/gorgonia)
+.image https://raw.githubusercontent.com/gorgonia/gorgonia/master/media/mascot_small.jpg
+- [Gonum](https://github.com/gonum/gonum)
