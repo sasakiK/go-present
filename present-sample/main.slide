@@ -1,9 +1,21 @@
 Golang present test
-Goでプレゼン資料を作るテスト
-2018.09.03
+Golang presentation
+3 Sep 2018
 Tags: none
 
 佐々木 健佑
-筑波大学
+筑波大学システム情報工学研究科
 k.coobb@gmail.com
-http://url/
+
+
+* Slide1
+- Gopher
+.image https://orebibou.com/wp-content/uploads/2017/02/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67-620x844.png  250 200
+- contents2
+- contents3
+
+* Slide2
+- contents1
+- sample code implementation
+
+.play example/sample.go
