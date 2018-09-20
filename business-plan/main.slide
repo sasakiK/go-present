@@ -11,7 +11,7 @@ k.coobb@gmail.com
 * 概要
 
 - VR空間に、
-- 勉強会・もくもく会などのITイベントを開催できる会場を作成し、
+- 勉強会・もくもく会などのITイベントを開催できる会場(VR Room)を作成し、
 - イベントを主催・参加できるプラットフォームを提供する
 
 .image https://3.bp.blogspot.com/-19zw-WtDeVA/WwUdTKbAjDI/AAAAAAABMVU/bzwPBkdX2kMvW51XrjP8GyquZbxwk08JwCLcBGAs/s800/vr_cafe_couple.png 200 200
@@ -103,9 +103,10 @@ k.coobb@gmail.com
 
 * 体制
 
-- 業務提携・買収
-  - イベントの作成から参加者管理までをconnpassのプラットフォームで
-  - 本事業への導線を設置し、VRroom上でのイベント実施に持ち込む
+*業務提携・買収*
+
+- イベントの作成から参加者管理までをconnpassのプラットフォームで
+- 本事業への導線を設置し、VRroom上でのイベント実施に持ち込む
 
 * ユースケース
 
@@ -135,8 +136,20 @@ k.coobb@gmail.com
 
 * ユースケース
 
-- Aさんはconnpassでイベント作成・参加者管理
-- 会場は本事業で提供するVR Roomを利用
+- Aさんはconnpassでイベント作成・集客・参加者管理
+- 会場は本事業で提供するVR Roomを利用(コロプラにroom利用料を支払う)
 - Bさんは自宅からイベントに参加する
 
 .image images/usecase.png 400 540
+
+* 潜在顧客
+
+* 潜在顧客
+
+- conpass × Zoom・Appear.inを使ってリモート勉強会をやっている層
+
+.image https://cdn-ak.f.st-hatena.com/images/fotolife/J/JunichiIto/20150926/20150926120651.jpg 130 200
+.link https://blog.jnito.com/entry/2015/09/24/074730 勉強会もリモートで！？神山.rbで...
+
+.image http://drive.google.com/uc?export=view&id=1P4MkPGy2JkZdtw9oRLBzUAFpPC1Qi8gc　130 230
+.link https://techplay.jp/event/689532 THECK PLAY リモートで勉強会#2
