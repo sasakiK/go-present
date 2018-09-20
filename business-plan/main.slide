@@ -13,7 +13,69 @@ k.coobb@gmail.com
 - VR空間に、勉強会・もくもく会などのITイベントを開催できる会場を作成し、イベントを主催・参加できるプラットフォームを提供する
 - 勉強会参加の地域格差と、会場確保の困難さを解決し、「誰でもITを学べる」プラットフォームを作る
 
-* How to insert into struct
-- we can do like this ..
+* 目次
 
-* Try to execute (but cannot to run)
+- ビジネスの背景
+
+事業のミッション
+
+市場の魅力度
+
+- ビジネスの仕組み
+
+- 想定される収益計画
+
+- アクションプラン
+
+チーム体制
+
+スケジュール
+
+* ビジネスの背景
+
+* 事業のミッション
+
+.image images/MISSION.png 500 800
+
+* 市場の魅力度  ニーズ
+
+- 6割以上が東京開催 (connpass apiから「python」で100件取得)
+
+.image images/event-dist.png 250 180
+
+- 地方在住利用者には *参加が困難*・*高い参加障壁*
+- 筆者のイベント運営の経験から、*会場の確保がネック*(キャパ・電源・wifi)
+
+* 市場の魅力度  成長性
+
+- IT技術勉強会イベントが増加傾向
+.link http://ir.c.chuo-u.ac.jp/repository/search/binary/p/8233/s/6357/ [飯尾,2015]
+
+.image images/increase.png 300 300
+
+
+* 自社の強み
+
+- KFS(Key Factor for Success)
+
+.image images/kfs-table.png 250 900
+.link https://connpass.com/about/comparison/ 参考:connpassの特徴
+
+* 事業の魅力まとめ
+
+.image images/summary.png 550 1000
+
+
+
+* ビジネスの仕組み
+
+* ビジネスモデルの概要
+
+- バリューチェーン
+- 他サービスがカバーしていない会場提供にフォーカス
+
+.image images/valuechain.png 410 900
+
+* 対価を得る仕組み
+
+- 会場利用料・イベント広告料
