@@ -100,3 +100,43 @@ k.coobb@gmail.com
 
 *会場利用料*
 *イベントプロモーション料*
+
+* 体制
+
+- 業務提携・買収
+  - イベントの作成から参加者管理までをconnpassのプラットフォームで
+  - 本事業への導線を設置し、VRroom上でのイベント実施に持ち込む
+
+* ユースケース
+
+* ユースケース
+
+- 本サービスのユーザーのペルソナ
+
+*イベント主催者*
+
+.image https://3.bp.blogspot.com/-Rs9jHGYI7C0/VY4W19JyVQI/AAAAAAAAuuU/fEBvUL9Flz8/s800/syokuji_computer.png 200 200
+
+- つくば市在住,web系企業のエンジニアAさん(30歳)
+- pythonのwebフレームワークのハンズオンイベントを開きたい
+- 手軽に使えてコンディションのいい会場の当てがない(電源・wifi)
+
+* ユースケース
+
+- 本サービスのユーザーのペルソナ
+
+*イベント参加者*
+
+.image https://2.bp.blogspot.com/-RbbGOXpWLgc/Us_MJrSkBsI/AAAAAAAAdBk/wSqULzpIv6E/s800/daigakusei_man.png 200 130
+
+- 愛知県在住,エンジニア志望の大学生Bさん(22歳)
+- pythonでアプリ開発に興味があるが、周りに教えてくれる人がいない
+- いろんなIT系勉強会に興味はあるが、都内までいくのはちょっときつい
+
+* ユースケース
+
+- Aさんはconnpassでイベント作成・参加者管理
+- 会場は本事業で提供するVR Roomを利用
+- Bさんは自宅からイベントに参加する
+
+.image images/usecase.png 400 540
