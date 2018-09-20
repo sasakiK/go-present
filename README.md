@@ -10,3 +10,8 @@ Initial test presentation is [here](http://go-talks.appspot.com/github.com/sasak
 ##  CSV parse sample
 
 How to parse csv file  is [here](http://go-talks.appspot.com/github.com/sasakiK/go-present/go-csv-parser/main.slide)
+
+##  Business plan for cl
+
+VRイベントプラットフォーム事業 is
+ [here](http://go-talks.appspot.com/github.com/sasakiK/go-present/business-plan/main.slide)
